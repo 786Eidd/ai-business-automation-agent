@@ -1,0 +1,13 @@
+{
+  "_comment": "Small FAQ knowledge base used by the retrieval node for general_question intent. Searched with the same rank_bm25 engine used in the rag-citation-demo / multi-agent-financial-qa projects, for consistency across the portfolio.",
+  "faqs": [
+    {"id": "faq-1", "question": "What is your return policy?", "answer": "Items can be returned within 30 days of delivery for a full refund, as long as they are unused and in original packaging."},
+    {"id": "faq-2", "question": "How long does shipping take?", "answer": "Standard shipping takes 3-7 business days domestically and 7-14 business days internationally."},
+    {"id": "faq-3", "question": "Can I change my shipping address after ordering?", "answer": "Yes, as long as the order hasn't shipped yet. Once an order has shipped, the address on file can no longer be changed."},
+    {"id": "faq-4", "question": "What payment methods do you accept?", "answer": "We accept all major credit cards, debit cards, and PayPal."},
+    {"id": "faq-5", "question": "How do I track my order?", "answer": "You'll receive a tracking link by email once your order ships. You can also provide your order ID to check status at any time."},
+    {"id": "faq-6", "question": "Do you offer refunds for damaged items?", "answer": "Yes, damaged or defective items are eligible for a full refund or replacement regardless of the return window, once reported with a description of the issue."},
+    {"id": "faq-7", "question": "How long do refunds take to process?", "answer": "Approved refunds are issued to the original payment method within 5-10 business days."},
+    {"id": "faq-8", "question": "Do you ship internationally?", "answer": "Yes, we ship to most countries. International orders may be subject to customs fees determined by the destination country."}
+  ]
+}
